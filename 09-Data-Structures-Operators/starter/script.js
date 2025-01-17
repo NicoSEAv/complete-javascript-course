@@ -46,6 +46,8 @@ const restaurant = {
   },
 };
 
+// Lesson 118
+
 // Property Names
 const properties = Object.keys(restaurant.openingHours);
 console.log(properties);
